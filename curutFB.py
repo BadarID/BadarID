@@ -191,7 +191,7 @@ def banner():
 	cetak(panel(f"""
  
                  ╔═════ ▓▓ ࿇ Badar ID ࿇ ▓▓ ═════╗ 
-		                🖕🖕🖕
+		         💢🚀🚀💢 - 💢🚀🚀💢
            ╚═════ ▓▓ ࿇Jangan disalah gunakan࿇ ▓▓ ═════╝
 
                                             
@@ -333,43 +333,43 @@ def menu(my_name,my_id):
 	console.print(Columns(dia))
 	cetak(panel(f"[bold white]Alvino_Xy , DerrXr , Asepit-Gans , Rozhak XD , Rochmat Basuki , Nazri XD , Aorec XD , Lukman-XD , Dapunta , Kall",width=90,title=f"[bold green]Thanks To",style=f"bold white"))
 	cetak(panel(f"[bold white][[bold cyan]01[bold white]] Crack From Friends     [bold white][[bold cyan]06[bold white]] Crack From Username[bold white]      [[bold cyan]11[bold white]] Get Headers      \n[bold white][[bold cyan]02[bold white]] Crack From Massal      [bold white][[bold cyan]07[bold white]] Crack From Followers     [[bold cyan]12[bold white]] Spam WhatsApp      \n[bold white][[bold cyan]03[bold white]] Crack From Groups      [[bold cyan]08[bold white]] Crack From Comment       [bold white][[bold cyan]13[bold white]] Spam Sms \n[bold white][[bold cyan]04[bold white]] Crack From Email       [bold white][[bold cyan]09[bold white]] Check Opsi Checkpoint [bold white]   [[bold cyan]14[bold white]] Dump Id \n[bold white][[bold cyan]05[bold white]] Crack From Files       [bold white][[bold cyan]10[bold white]] [bold white]Check Result Crack [bold white]      [[bold cyan]15[bold white]] [bold red]Delete Cookies",width=90,title=f"[bold green]List Menu",style=f"bold white"))
-	_____brayennn___xd____ = input(f' [+] Pilih Menu Crack : ')
-	if _____brayennn___xd____ in ['1','01']:
+	_____Badar___ID____ = input(f' [+] Pilih Menu Crack : ')
+	if _____Badar___ID____ in ['1','01']:
 		brayen_dump()
-	elif _____brayennn___xd____ in ['2','02']:
+	elif _____Badar___ID____ in ['2','02']:
 		dump_massal()
-	elif _____brayennn___xd____ in ['3','03']:
+	elif _____Badar___ID____ in ['3','03']:
 		crack_group()
-	elif _____brayennn___xd____ in ['4','04']:
+	elif _____Badar___ID____ in ['4','04']:
 		crack_email()
-	elif _____brayennn___xd____ in ['5','05']:
+	elif _____Badar___ID____ in ['5','05']:
 		crack_file()
-	elif _____brayennn___xd____ in ['6','06']:
+	elif _____Badar___ID____ in ['6','06']:
 		crack_nama()
-	elif _____brayennn___xd____ in ['7','07']:
+	elif _____Badar___ID____ in ['7','07']:
 		pengikut()
-	elif _____brayennn___xd____ in ['8','08']:
+	elif _____Badar___ID____ in ['8','08']:
 		komen()
-	elif _____brayennn___xd____ in ['9','09']:
+	elif _____Badar___ID____ in ['9','09']:
 		file_cp()
-	elif _____brayennn___xd____ in ['10']:
+	elif _____Badar___ID____ in ['10']:
 		result()
-	elif _____brayennn___xd____ in ['11']:
+	elif _____Badar___ID____ in ['11']:
 		siu()
-	elif _____brayennn___xd____ in ['12']:
+	elif _____Badar___ID____ in ['12']:
 		spam_wa()
-	elif _____brayennn___xd____ in ['13']:
+	elif _____Badar___ID____ in ['13']:
 		spam_sms()
-	elif _____brayennn___xd____ in ['14']:
+	elif _____Badar___ID____ in ['14']:
 		dumpid()
-	elif _____brayennn___xd____ in ['15']:
+	elif _____Badar___ID____ in ['15']:
 		os.system('rm -rf .token.txt')
 		os.system('rm -rf .cookie.txt')
 		print(f' [+] {m}Sukses Logout+Hapus Cookies')
 		time.sleep(5)
 		login()
 	else:
-		print(' [+] Pilih Yang Bener Asu ')
+		print(' [+] Pilih Yang Bener Cokk ')
 		exit()
 def error():
 	print(f' [+] Maaf Fitur Ini Masih Di Perbaiki')
@@ -823,7 +823,7 @@ def setting():
 			xx = random.randint(0,len(id2))
 			id2.insert(xx,bacot)
 	else:
-		print(' [+] Pilih Yang Bener Kontooll ')
+		print(' [+] Pilih Yang Bener cookkk ')
 		exit()
 	urut = []
 	urut.append(panel(f'[bold white][[bold cyan]01[/][bold white]][/] [bold white]Login Site [bold green]m.facebook.com[bold white] [/]\n[bold white][[bold cyan]02[/][bold white]][/] [bold white]Login Site [bold green]mbasic.facebook.com[bold white]',width=42,title=f"[bold green]Validate",style=f"bold white"))
@@ -864,19 +864,19 @@ def setting():
 		pwpluss.append('no')
 	
 	cetak(panel(f'      [bold white]Apakah Anda Ingin Menampilkan Aplikasi Yang Terkait Di Dalam Akun ? Y/T',width=90,title=f"[bold green]Setting Cek Apk",style=f"bold white"))
-	_brayen_ = input(' [+] Pilih : ')
-	if _brayen_ in ['']:
+	_badar_ = input(' [+] Pilih : ')
+	if _badar_ in ['']:
 		print(' [+] Pilih Yang Bener Kontol ')
 		exit()
-	elif _brayen_ in ['y','Y']:
+	elif _badar_ in ['y','Y']:
 		taplikasi.append('ya')
 	else:
 		taplikasi.append('no')
 		
 	cetak(panel(f'      [bold white]Apakah Anda Ingin Menampilkan Opsi Checkpoint Di Dalam Akun ? Y/T',width=90,title=f"[bold green]Cek Opsi",style=f"bold white"))
 	_brayen_ = input(' [+] Pilih : ')
-	if _brayen_ in ['']:
-		print(' [+] Pilih Yang Bener Kontol ')
+	if _badar_ in ['']:
+		print(' [+] Pilih Yang Bener cokk ')
 		exit()
 	elif _brayen_ in ['y','Y']:
 		gabriel.append('ya')
