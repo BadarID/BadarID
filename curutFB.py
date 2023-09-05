@@ -189,8 +189,9 @@ def clear():
 #------------------[ LOGO-LAKNAT ]-----------------#
 def banner():
 	cetak(panel(f"""
-                        ╔═════ ▓▓ ࿇ Badar ID ࿇ ▓▓ ═════╗
-                  ╚═════ ▓▓ ࿇Jangan disalah gunakan࿇ ▓▓ ═════╝
+ 
+                 ╔═════ ▓▓ ࿇ Badar ID ࿇ ▓▓ ═════╗
+           ╚═════ ▓▓ ࿇Jangan disalah gunakan࿇ ▓▓ ═════╝
 
                                             
              """,width=90,padding=(0,8),title=f"Banner",style=f"bold white"))
